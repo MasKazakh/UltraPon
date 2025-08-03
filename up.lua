@@ -1,6 +1,6 @@
 
 if game.Players.LocalPlayer:FindFirstChild("PlayerGui"):FindFirstChild("UltraPon") then
-	warn("Скрипт выдачи инструментов уже запущен.")
+	warn("Wow")
 	return
 end
 local toolsData = {
